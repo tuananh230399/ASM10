@@ -1,0 +1,7 @@
+#Tue Oct 08 15:20:41 ICT 2019
+base.0=D\:\\AndroidT1708A\\SS9_SQLite_Part1\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out\\classes.dex
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=D\:\\AndroidT1708A\\SS9_SQLite_Part1\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out\\classes.dex
